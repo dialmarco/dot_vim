@@ -23,6 +23,8 @@ set autoindent
 set expandtab
 set number
 
+set hlsearch
+
 map <C-Up> :buffer 
 map <C-Down> :bd<CR> "buffer delete
 map <C-Left> :bn<CR> "buffer next
