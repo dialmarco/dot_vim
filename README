@@ -13,3 +13,6 @@ Switch to the `~/.vim` directory, and fetch submodules:
     git submodule update --init
     rm -rf  bundle/vim-snipmate/snippets/
 
+If you want to add new submodules
+
+  git submodule add <repo> bundle/plugin_name
