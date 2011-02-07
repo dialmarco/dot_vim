@@ -1,1 +1,1 @@
-colorscheme irblack
+colorscheme two2tango
